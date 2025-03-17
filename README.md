@@ -1,6 +1,6 @@
-# 🔐 Secure Password Generator & Strength Checker
+# 🔐 Intelligent Password Generator & Strength Checker
 
-An interactive **Password Generator** and **Strength Checker** built with Python in a Jupyter Notebook. This tool helps users generate secure passwords or passphrases, evaluate their strength in real time, and follow best practices for password creation.
+An interactive intelligent **Password Generator** and **Strength Checker** built with Python in a Jupyter Notebook. This tool helps users generate secure passwords or passphrases, evaluate their strength in real time, and follow best practices for password creation.
 
 ## 🚀 Features
 
